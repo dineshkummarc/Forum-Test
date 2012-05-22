@@ -1,0 +1,24 @@
+<?xml version="1.0"?><!-- This file is used by CodeCharge for locking edited files. It may be removed when file locking is not desired. --><Files><File name="assemblyinfo.cs" time="09.17.2002 16:15:00" page=""/>
+<File name="makeall.bat" time="09.17.2002 16:15:00" page=""/>
+<File name="ccpager.cs" time="09.17.2002 16:15:00" page=""/>
+<File name="global.asax" time="09.17.2002 16:15:00" page=""/>
+<File name="global.asax.cs" time="09.17.2002 16:15:00" page=""/>
+<File name="forum.csproj" time="09.17.2002 16:15:00" page=""/>
+<File name="forum.csproj.webinfo" time="09.17.2002 16:15:00" page=""/>
+<File name="ccutility.cs" time="09.17.2002 16:15:00" page=""/>
+<File name="index.cs" time="09.17.2002 16:15:00" page="index"/>
+<File name="newthread.cs" time="09.17.2002 16:15:00" page="newthread"/>
+<File name="viewthread.cs" time="09.17.2002 16:15:00" page="viewthread"/>
+<File name="reply.cs" time="09.17.2002 16:15:00" page="reply"/>
+<File name="header.cs" time="09.17.2002 16:15:00" page="header"/>
+<File name="searches.cs" time="09.17.2002 16:15:00" page="searches"/>
+<File name="ccpager.ascx" time="09.17.2002 16:15:00" page=""/>
+<File name="index.aspx" time="09.17.2002 16:15:00" page="index"/>
+<File name="newthread.aspx" time="09.17.2002 16:15:00" page="newthread"/>
+<File name="viewthread.aspx" time="09.17.2002 16:15:00" page="viewthread"/>
+<File name="reply.aspx" time="09.17.2002 16:15:00" page="reply"/>
+<File name="header.ascx" time="09.17.2002 16:15:00" page="header"/>
+<File name="searches.aspx" time="09.17.2002 16:15:00" page="searches"/>
+<File name="forum.disco" time="09.17.2002 16:15:00" page=""/>
+<File name="web.config" time="09.17.2002 16:15:00" page=""/>
+</Files>
